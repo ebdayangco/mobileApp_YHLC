@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name"> YHLC Community</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logintv">Username</string>
+    <string name="YHLC">Name</string>
+    <string name="regsiterName">Register</string>
+    <string name="cancelName">Cancel</string>
+    <string name="loginName">LOGIN</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="fullName">Fullname:</string>
+    <string name="email">Email:</string>
+    <string name="changePass">Change Password</string>
+    <string name="contactName">Contact Number:</string>
+    <string name="okName">OK</string>
+    <string name="currentPass">Current Password</string>
+    <string name="newPass">New Password</string>
+    <string name="cofirmedPass">Confirmed Password</string>
+    <string name="yhlcComm"> YHLC COMMUNITY</string>
+
+
+</resources>
